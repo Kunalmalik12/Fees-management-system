@@ -1,0 +1,49 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-classpath
+'C:/Users/MY LENOVO/.m2/repository/mysql/mysql-connector-java/8.0.17/mysql-connector-java-8.0.17.jar;C:/Users/MY LENOVO/.m2/repository/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar;C:/Users/MY LENOVO/.m2/repository/unknown/binary/AbsoluteLayout/SNAPSHOT/AbsoluteLayout-SNAPSHOT.jar;C:/Users/MY LENOVO/.m2/repository/com/toedter/jcalendar/1.4/jcalendar-1.4.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+23
+-sourcepath
+'C:/Users/MY LENOVO/Documents/NetBeansProjects/Kunalmalik_fees_management_system/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/MY LENOVO/Documents/NetBeansProjects/Kunalmalik_fees_management_system/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Kunalmalik_fees_management_system 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Kunalmalik_fees_management_system 1.0-SNAPSHOT API'
+com.mycompany.kunalmalik_fees_management_system
+C:\Users\MY LENOVO\.m2\repository\mysql\mysql-connector-java\8.0.17\mysql-connector-java-8.0.17.jar = 1743390133662
+C:\Users\MY LENOVO\.m2\repository\com\google\protobuf\protobuf-java\3.6.1\protobuf-java-3.6.1.jar = 1743390138919
+C:\Users\MY LENOVO\.m2\repository\unknown\binary\AbsoluteLayout\SNAPSHOT\AbsoluteLayout-SNAPSHOT.jar = 1743173815675
+C:\Users\MY LENOVO\.m2\repository\com\toedter\jcalendar\1.4\jcalendar-1.4.jar = 1743217427668
+C:\Users\MY LENOVO\Documents\NetBeansProjects\Kunalmalik_fees_management_system\src\main\java = 1757567673014
+C:\Users\MY LENOVO\Documents\NetBeansProjects\Kunalmalik_fees_management_system\target\reports\apidocs\allclasses-index.html = 1758003742128
+C:\Users\MY LENOVO\Documents\NetBeansProjects\Kunalmalik_fees_management_system\target\reports\apidocs\allpackages-index.html = 1758003742134
+C:\Users\MY LENOVO\Documents\NetBeansProjects\Kunalmalik_fees_management_system\target\reports\apidocs\element-list = 1758003741760
+C:\Users\MY LENOVO\Documents\NetBeansProjects\Kunalmalik_fees_management_system\target\reports\apidocs\help-doc.html = 1758003742209
+C:\Users\MY LENOVO\Documents\NetBeansProjects\Kunalmalik_fees_management_system\target\reports\apidocs\index-all.html = 1758003742192
+C:\Users\MY LENOVO\Documents\NetBeansProjects\Kunalmalik_fees_management_system\target\reports\apidocs\index.html = 1758003742201
+C:\Users\MY LENOVO\Documents\NetBeansProjects\Kunalmalik_fees_management_system\target\reports\apidocs\member-search-index.js = 1758003742154
+C:\Users\MY LENOVO\Documents\NetBeansProjects\Kunalmalik_fees_management_system\target\reports\apidocs\module-search-index.js = 1758003742138
+C:\Users\MY LENOVO\Documents\NetBeansProjects\Kunalmalik_fees_management_system\target\reports\apidocs\overview-tree.html = 1758003742100
+C:\Users\MY LENOVO\Documents\NetBeansProjects\Kunalmalik_fees_management_system\target\reports\apidocs\package-search-index.js = 1758003742144
+C:\Users\MY LENOVO\Documents\NetBeansProjects\Kunalmalik_fees_management_system\target\reports\apidocs\search.html = 1758003742197
+C:\Users\MY LENOVO\Documents\NetBeansProjects\Kunalmalik_fees_management_system\target\reports\apidocs\serialized-form.html = 1758003741992
+C:\Users\MY LENOVO\Documents\NetBeansProjects\Kunalmalik_fees_management_system\target\reports\apidocs\tag-search-index.js = 1758003742163
+C:\Users\MY LENOVO\Documents\NetBeansProjects\Kunalmalik_fees_management_system\target\reports\apidocs\type-search-index.js = 1758003742149
